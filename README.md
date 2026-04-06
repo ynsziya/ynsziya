@@ -97,6 +97,26 @@
 
 ---
 
+### 🤖 Robotics Projects (Student Projects)
+
+#### 🎥 Project 1
+[![Watch the video](https://img.youtube.com/vi/dNXszRc7n5g/0.jpg)](https://youtu.be/dNXszRc7n5g)
+
+- Robotics-based student project  
+- Embedded systems and control logic  
+- Arduino / Raspberry Pi integration  
+
+---
+
+#### 🎥 Project 2
+[![Watch the video](https://img.youtube.com/vi/cVWmrrxnxLA/0.jpg)](https://youtu.be/cVWmrrxnxLA)
+
+- Real-time interaction system  
+- Hardware + software integration  
+- Sensor-based automation  
+
+---
+
 <p align="center">
   ⭐ If you like my work, feel free to follow and check my repositories!
 </p>
