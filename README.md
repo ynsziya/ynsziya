@@ -120,13 +120,13 @@
 <h2 align="center">📱 Published Mobile Applications</h2>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=4868355215454623622&hl=tr">
+  <a href="https://play.google.com/store/apps/dev?id=4868355215454623622">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="220"/>
   </a>
 </p>
 
 <p align="center">
-  👉 <a href="https://play.google.com/store/apps/dev?id=4868355215454623622&hl=tr">View My Google Play Developer Profile</a>
+  👉 <a href="https://play.google.com/store/apps/dev?id=4868355215454623622">View My Google Play Developer Profile</a>
 </p>
 
 ---
