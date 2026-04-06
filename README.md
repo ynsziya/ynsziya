@@ -117,6 +117,69 @@
 
 ---
 
+<h2 align="center">📱 Published Mobile Applications</h2>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=4868355215454623622&hl=tr">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="220"/>
+  </a>
+</p>
+
+<p align="center">
+  👉 <a href="https://play.google.com/store/apps/dev?id=4868355215454623622&hl=tr">View My Google Play Developer Profile</a>
+</p>
+
+---
+
+## 📲 My Applications
+
+### 🧩 PuzzlApp Pro
+🔗 https://play.google.com/store/apps/details?id=com.zerdapps.puzzlapp_pro  
+
+- 🧠 Puzzle-based mobile game focused on logic and problem solving  
+- 🎮 Designed for engaging and interactive gameplay  
+- ⚙️ Developed using Android technologies (Java/Kotlin)  
+- 🚀 Published on Google Play with real users  
+
+---
+
+### 🧠 Dynamic Memory Game
+🔗 https://play.google.com/store/apps/details?id=com.electrogenetics.dynamicmemorygame  
+
+- 🧠 Memory improvement game with dynamic difficulty system  
+- 🎯 Focused on cognitive skills and user interaction  
+- ⚙️ Performance-optimized Android application  
+- 📱 Designed for continuous engagement  
+
+---
+
+### 🏀 Basket Adventure
+🔗 https://play.google.com/store/apps/details?id=com.electrogenetics.basketadventure  
+
+- 🏀 Arcade-style basketball game  
+- 🎮 Real-time interaction and responsive controls  
+- ⚙️ Mobile game mechanics and UI design  
+- 🚀 Published and tested on real devices  
+
+---
+
+### 🔄 Endless Combine
+🔗 https://play.google.com/store/apps/details?id=com.electrogenetics.endlesscombine  
+
+- 🔄 Endless merging-based gameplay mechanic  
+- 🎮 Designed for long session engagement  
+- ⚙️ Game logic and performance optimization  
+- 📱 Mobile-first design approach  
+
+---
+
+## 💡 Mobile Development Highlights
+
+- 📱 Multiple applications published on Google Play  
+- 💻 Strong experience in **Android (Java & Kotlin)**  
+- 🎯 Focus on **user experience, performance, and scalability**  
+- 🚀 End-to-end development: idea → development → release → maintenance  
+
 <p align="center">
   ⭐ If you like my work, feel free to follow and check my repositories!
 </p>
